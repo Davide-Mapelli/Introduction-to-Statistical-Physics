@@ -1,5 +1,5 @@
 # Introduction_to_Statistical_Physics
-Introduction to Statistical Physics at Università degli Studi di Milano (Unimi) in 2020-2021(held by Proff.: S. Zapperi, F. Font Clos) 
+Introduction to Statistical Physics III year optional course at Università degli Studi di Milano (Unimi) in 2020-2021(held by Proff.: S. Zapperi, F. Font Clos) 
 
 
 Davide Mapelli
